@@ -3,11 +3,11 @@
 
 ### I'm a Business and Profit Consultant, Developer, and Community Activist! 
 
-- 🔭 I’m currently working on coding app anyone can use to create their own websites without hosting and plugin fees
+- 🔭 I’m currently working on a coding app anyone can use to create their own websites without hosting and plugin fees
 - 🌱 I’m currently learning everything about the blockchain and React
-- 👯 I’m looking to collaborate with other content creators.
-- ⛓ 2022 Goals: Contribute to more blockchain and applications for clients
-- ⚡ Fun fact: My motto is "If it can be done, I can do it!"
+- 👯 I’m looking to collaborate with other content creators
+- ⛓ 2022 Goal: Contribute to more app projects and blockchain dapps for clients
+- ⚡ Fun fact: I love art --> all types of art.
 
 ### Connect with me:
 
@@ -34,20 +34,21 @@
 <br />
 <br />
 
-### See more Language and Tools [Resume Skills]
+See more Language and Tools [Resume Skills]
 
 <br />
 
-### You can learn more about me by reading my [bio]
+### You can learn more about me by reading my [bio] 📝
 
 Take a look at a few of my [projects]
 
 ### Management and Consultation
 
-If you're here looking for help with your business, check out my [business website]
+If you're here looking for help with your business, check out my [business website] 📈
 <br />
 <br />
-Be sure to [contact me] to request my services
+Be sure to [contact me] to request my services ✨
+
 
 [Ambush]: https://corporations.wzdmatl.com/x_ambush
 [website]: https://corporations.wzdmatl.com/x_ambush
@@ -56,4 +57,5 @@ Be sure to [contact me] to request my services
 [Resume Skills]: https://stupefied-brattain-ddc715.netlify.app/skills.html
 [bio]: https://stupefied-brattain-ddc715.netlify.app/about.html
 [projects]: https://infallible-archimedes-8c04df.netlify.app/project/work.html
+[business website]: https://corporations.wzdmatl.com/
 [contact me]: https://calendly.com/wzdm/session?month=2022-01
