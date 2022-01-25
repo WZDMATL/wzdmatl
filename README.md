@@ -3,18 +3,19 @@
 
 ### I'm a Business and Profit Consultant, Developer, and Community Activist! 
 
-- 🔭 I’m currently working on a [coding course anyone can use to create their own websites without hosting and plugin fees]
+- 🔭 I’m currently working on coding app anyone can use to create their own websites without hosting and plugin fees
 - 🌱 I’m currently learning everything about the blockchain and React
 - 👯 I’m looking to collaborate with other content creators.
 - ⛓ 2022 Goals: Contribute to more blockchain and applications for clients
 - ⚡ Fun fact: My motto is "If it can be done, I can do it!"
 
-### Connet with me:
+### Connect with me:
 
 [<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
+<br />
 <br />
 
 ### Languages and Tools:
@@ -30,13 +31,27 @@
 [<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />]
 [<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />]
 
+<br />
+<br />
+
 ### See more Language and Tools [Resume Skills]
 
 <br />
-<br />
 
+### You can learn more about me by reading my [bio]
+
+<h4>Take a look at a few of my [projects]</h4>
+
+### Management and Consultation
+
+<h4>If you're here looking for help with your business, check out my [business website]</h4>
+<h4>Be sure to [contact me] to request my services</h4>
 
 [Ambush]: https://corporations.wzdmatl.com/x_ambush
 [website]: https://corporations.wzdmatl.com/x_ambush
 [instagram]: https://instagram.com/x_ambush
 [linkedin]: https://www.linkedin.com/in/amethyst-bush-a7015950
+[Resume Skills]: https://stupefied-brattain-ddc715.netlify.app/skills.html
+[bio]: https://stupefied-brattain-ddc715.netlify.app/about.html
+[projects]: https://infallible-archimedes-8c04df.netlify.app/project/work.html
+[contact me]: https://calendly.com/wzdm/session?month=2022-01
