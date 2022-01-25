@@ -40,7 +40,7 @@
 <br />
 <br />
 
-See more Language and Tools [Resume Skills]
+See more Languages and Tools [Resume Skills]
 
 <br />
 <br />
@@ -54,7 +54,7 @@ Take a look at a few of my [projects]
 If you're here looking for help with your business, check out my [business website] 📈
 <br />
 <br />
-Be sure to [contact me] to request my services ✨
+Be sure to [contact me] to request my services 🎉
 
 
 [Ambush]: https://corporations.wzdmatl.com/x_ambush
