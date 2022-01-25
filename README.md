@@ -1,5 +1,6 @@
-### Hi there, I'm Amethyst Bush El - aka [Ambush]
+### Welcome, I'm Amethyst Bush El - aka [Ambush]
 
+<br />
 
 ### I'm a Business and Profit Consultant, Developer, and Community Activist! 
 
@@ -9,11 +10,14 @@
 - ⛓ 2022 Goal: Contribute to more app projects and blockchain dapps for clients
 - ⚡ Fun fact: I love art --> all types of art.
 
+<br />
+
 ### Connect with me:
 
 [<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+
 
 <br />
 <br />
@@ -37,6 +41,7 @@
 
 See more Language and Tools [Resume Skills]
 
+<br />
 <br />
 
 ### You can learn more about me by reading my [bio] 📝
