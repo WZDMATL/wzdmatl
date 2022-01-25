@@ -40,12 +40,14 @@
 
 ### You can learn more about me by reading my [bio]
 
-<h4>Take a look at a few of my [projects]</h4>
+Take a look at a few of my [projects]
 
 ### Management and Consultation
 
-<h4>If you're here looking for help with your business, check out my [business website]</h4>
-<h4>Be sure to [contact me] to request my services</h4>
+If you're here looking for help with your business, check out my [business website]
+<br />
+<br />
+Be sure to [contact me] to request my services
 
 [Ambush]: https://corporations.wzdmatl.com/x_ambush
 [website]: https://corporations.wzdmatl.com/x_ambush
