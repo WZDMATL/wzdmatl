@@ -57,8 +57,8 @@ If you're here looking for help with your business, check out my [business websi
 Be sure to [contact me] to request my services 🎉
 
 
-[Ambush]: https://corporations.wzdmatl.com/x_ambush
-[website]: https://corporations.wzdmatl.com/x_ambush
+[Ambush]: http://ambush.wzdmatl.com
+[website]: http://ambush.wzdmatl.com
 [instagram]: https://instagram.com/x_ambush
 [linkedin]: https://www.linkedin.com/in/amethyst-bush-a7015950
 [Resume Skills]: https://stupefied-brattain-ddc715.netlify.app/skills.html
