@@ -53,7 +53,7 @@ Take a look at a few of my [projects]
 If you're here looking for help with your business, check out my [business website] 📈
 <br />
 <br />
-Be sure to [contact me] (<a href="https://calendly.com/wzdmatl/webdevandgraphics"></a>) to request my services 🎉
+Be sure to [contact me] <a href="https://calendly.com/wzdmatl/webdevandgraphics"></a> to request my services 🎉
 
 
 [Ambush]: http://ambush.wzdmatl.com
