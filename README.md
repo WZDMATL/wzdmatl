@@ -7,7 +7,7 @@
 - 🔭 I’m currently working on a healthcare application used to put patients in the forefront of their health
 - 🌱 I’m currently learning everything about the blockchain and React
 - 👯 I’m looking to collaborate with other content creators
-- ⛓ 2022 Goal: Contribute to more web and app projects and blockchain dapps for clients
+- ⛓ Present Goal: Contribute to more web and app projects and blockchain dapps
 - ⚡ Fun fact: I love art --> all types of art.
 
 <br />
