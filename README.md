@@ -1,4 +1,4 @@
-### Welcome, I'm Amethyst Bush El - aka [Ambush]
+### Welcome, I'm Amethyst Bush El
 
 <br />
 
