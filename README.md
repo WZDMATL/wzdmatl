@@ -14,8 +14,8 @@
 
 ### Connect with me:
 
-[<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="Hyperspec Management" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+[<img align="left" alt="Amethyst Bush El | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
 
 <br />
@@ -50,18 +50,17 @@ Take a look at a few of my [projects]
 
 ### Management and Consultation
 
-If you're here looking for help with your business, check out my [business website] 📈
+If you're here looking for help with your business, check out my [website] 📈
 <br />
 <br />
-Be sure to [contact me](https://calendly.com/wzdmatl/webdevandgraphics) to request services! 🎉
+Be sure to [contact me] to request services! 🎉
 
 
-[Ambush]: http://ambush.wzdmatl.com
-[website]: http://ambush.wzdmatl.com
+
+[website]: https://hyperspechold.com/
 [instagram]: https://instagram.com/x_ambush
 [linkedin]: https://www.linkedin.com/in/amethyst-bush-a7015950
 [Resume Skills]: https://stupefied-brattain-ddc715.netlify.app/skills.html
 [bio]: https://stupefied-brattain-ddc715.netlify.app/about.html
 [projects]: https://infallible-archimedes-8c04df.netlify.app/project/work.html
-[business website]: https://corporations.wzdmatl.com/
-[contact me]: https://calendly.com/wzdm/session?month=2022-01
+[contact me]: https://hyperspechold.com/#connect
