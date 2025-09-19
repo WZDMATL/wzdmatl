@@ -4,10 +4,9 @@
 
 ### I'm a Business and Profit Consultant, Developer, and Community Activist! 
 
-- 🔭 I’m currently working on a healthcare application used to put patients in the forefront of their health
-- 🌱 I’m currently learning everything about the blockchain and React
-- 👯 I’m looking to collaborate with other content creators
-- ⛓ Present Goal: Contribute to more web and app projects and blockchain dapps
+- 🔭 I’m currently working on a revolutionary applications used across industries
+- 👯 I’m looking to collaborate with other developers, content creators, and community activists
+- ⛓ Present Goal: Contribute to more web and app projects 
 - ⚡ Fun fact: I love art --> all types of art.
 
 <br />
@@ -36,11 +35,6 @@
 <img align="left" alt="Solidity" width="26px" src="https://docs.soliditylang.org/en/v0.8.11/_images/logo.svg" />
 
 <br />
-<br />
-<br />
-
-See more Languages and Tools [Resume and Skills]
-
 <br />
 <br />
 
